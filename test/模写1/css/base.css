@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+html,body {
+    color: #444;
+    font-family: "FOT-筑紫A丸ゴシック Std R", 游ゴシック体, YuGothic, 游ゴシック, "Yu Gothic", メイリオ, sans-serif;
+}
+
+ul,li {
+    list-style: none;
+}
+
+a {
+    color: #444;
+    text-decoration: none;
+}
+
+.box_flex {
+    display: flex;
+}
